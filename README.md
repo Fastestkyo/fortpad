@@ -1,11 +1,11 @@
 # fortpad
 a hackpad for sweating in fortnite. this has 16 keys and a oled display.
-![image](https://github.com/user-attachments/assets/99768944-b53f-499b-a927-5cc45b6da477)
+![image](https://github.com/user-attachments/assets/911b3199-a721-443e-b618-7bd15d619ff9)
 ![image](https://github.com/user-attachments/assets/0c2d032d-1353-45d6-8ee1-4f05d0231855)
-![image](https://github.com/user-attachments/assets/d7f6d533-8948-4087-9f9a-196175430355)
-![image](https://github.com/user-attachments/assets/8c2ffe6e-f170-493e-87db-f7f7db21022a)
-![image](https://github.com/user-attachments/assets/b7a02272-7e55-4b0d-90cc-a40517c2b40b)
-![image](https://github.com/user-attachments/assets/a5fff0c3-8120-401f-a822-f160504c70c1)
+![image](https://github.com/user-attachments/assets/269ca4a6-7c34-451e-8e98-37880b91b807)
+![image](https://github.com/user-attachments/assets/a4c36877-eee1-4a5c-9d5d-644f94782ef5)
+![image](https://github.com/user-attachments/assets/41aa2890-1036-404f-b41c-5c3c49264b68)
+![image](https://github.com/user-attachments/assets/3d8200b6-c4bf-4348-9147-0c147320cf5a)
 
 ## BOM:
 | item                            | amt|
