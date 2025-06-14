@@ -7,6 +7,9 @@ a hackpad for sweating in fortnite. this has 16 keys and a oled display.
 ![image](https://github.com/user-attachments/assets/41aa2890-1036-404f-b41c-5c3c49264b68)
 ![image](https://github.com/user-attachments/assets/3d8200b6-c4bf-4348-9147-0c147320cf5a)
 
+This is a hackpad which has 1,2,3,4,5, tab, q,w,e,r,a,s,d,ctrl,alt and space, which are my keybinds for fortnite.
+the hard part for this was the pcb since this is the 2nd pcb ive made. the matrix thing for this is 4x4.
+
 ## BOM:
 | item                            | amt|
 |---------------------------------|----|
